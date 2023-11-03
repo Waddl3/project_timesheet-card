@@ -1,0 +1,4 @@
+G:\CISP 34L Advanced C++\Timesheet\Timesheet\Timesheet\x64\Debug\Timesheet.vcxproj.AssemblyReference.cache
+G:\CISP 34L Advanced C++\Timesheet\Timesheet\Timesheet\x64\Debug\Timesheet.vcxproj.SuggestedBindingRedirects.cache
+G:\CISP 34L Advanced C++\Timesheet\Timesheet\Timesheet\x64\Debug\Timesheet.MyForm.resources
+G:\CISP 34L Advanced C++\Timesheet\Timesheet\Timesheet\x64\Debug\Timesheet.vcxproj.GenerateResource.cache

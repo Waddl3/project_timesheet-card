@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+G:\CISP 34L Advanced C++\Timesheet\Timesheet\Timesheet\MyForm.cpp(8,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Timesheet.vcxproj -> G:\CISP 34L Advanced C++\Timesheet\Timesheet\x64\Debug\Timesheet.exe
